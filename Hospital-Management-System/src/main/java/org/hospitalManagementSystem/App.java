@@ -6,8 +6,8 @@ import java.util.Scanner;
 
 public class App {
     private static final String url = "jdbc:mysql://localhost:3306/hms";
-    private static final String username = "root";
-    private static final String password = "arun";
+    private static final String username = ".....";
+    private static final String password = ".....";
 
     public static void main(String[] args) {
         try {
